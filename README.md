@@ -2,7 +2,7 @@
 
 ## Overview
 
-A Python-based command-line project that analyses household appliance energy consumption and provides basic insights and recommendations.
+A Python based command line project that analyses household appliance energy consumption and provides basic insights and recommendations.
 
 ## Features
 
